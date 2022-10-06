@@ -4,9 +4,9 @@ Hi, I'm Yoo, Seongsu
 
 Fullstack Developer 🚀 from Korea
 
-🔭 I’m currently working on K-Game.. in Seoul
+🔭 I’m currently working on NPIXEL... in Seoul
 
-🌱 I’m interested in now <span style="color: pink"> AI, Blockchain</span>
+🌱 I’m interested in now <span style="color: pink">ML, DL, PWA, WebAssembly, Socket.io, Flutter</span>
 </p>
 
 ---
@@ -17,7 +17,7 @@ Main skills
 
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/next.js-20232A?style=flat-square&logo=next.js&logoColor=fffffff"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
 </div>
@@ -25,6 +25,7 @@ Main skills
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-D6C2F5?style=flat-square&logo=wpf&logoColor=white"/>
 </div><br/>
 
 Etc
@@ -32,6 +33,7 @@ Etc
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ElasticSearch-00BFB3?style=flat-square&logo=Elastic&logoColor=black"/>
 </div>
 
 ---
