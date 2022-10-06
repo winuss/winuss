@@ -17,6 +17,7 @@ Main skills
 
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/next.js-20232A?style=flat-square&logo=next.js&logoColor=fffffff"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
 </div>
