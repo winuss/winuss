@@ -16,25 +16,25 @@ Fullstack Developer 🚀 from Korea
 Main skills
 
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=next.js&logoColor=fffffff"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nest.js-EA2845?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nextjs-20232A?style=flat&logo=next.js&logoColor=fffffff"/>
+  <img src="https://img.shields.io/badge/Nodejs-43853D?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nestjs-EA2845?style=flat&logo=nestjs&logoColor=white"/>
 </div>
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WPF-D6C2F5?style=flat-square&logo=wpf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-9456CE?style=flat&logo=c-sharp&logoColor=white"/>
 </div><br/>
 
 Etc
 
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAws&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/ElasticSearch-00BFB3?style=flat-square&logo=Elastic&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAws&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/ElasticSearch-00BFB3?style=flat&logo=Elastic&logoColor=black"/>
 </div>
 
 ---
