@@ -18,8 +18,6 @@ Main skills
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nextjs-20232A?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nodejs-43853D?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nestjs-EA2845?style=flat&logo=nestjs&logoColor=white"/>
 </div>
@@ -35,6 +33,8 @@ Main skills
 Etc
 
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nextjs-20232A?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAws&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/ElasticSearch-00BFB3?style=flat&logo=Elastic&logoColor=black"/>
