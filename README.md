@@ -17,14 +17,11 @@ Main skills
 
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Nodejs-43853D?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nestjs-EA2845?style=flat&logo=nestjs&logoColor=white"/>
-</div>
-<div style="display: flex; gap: 5px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
+</div>
+<div style="display: flex; gap: 5px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/ASP.NET-460A7C?style=flat&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/WinForm-5565BF?style=flat&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/WPF-9456CE?style=flat&logo=c-sharp&logoColor=white"/>
@@ -33,7 +30,10 @@ Main skills
 Etc
 
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodejs-43853D?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nestjs-EA2845?style=flat&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nextjs-20232A?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAws&logoColor=ffdd54"/>
