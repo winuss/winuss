@@ -4,7 +4,7 @@ Hi, I'm Yoo, Seongsu
 
 Fullstack Developer 🚀 from Korea
 
-🔭 I’m currently working on NPIXEL... in Seoul
+🔭 I’m currently working on ..... in Seoul
 
 🌱 I’m interested in now <span style="color: pink">ML, DL, PWA, WebAssembly, Socket.io, Flutter</span>
 </p>
