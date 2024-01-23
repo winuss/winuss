@@ -36,6 +36,7 @@ Etc
   <img src="https://img.shields.io/badge/Nodejs-43853D?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nestjs-EA2845?style=flat&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAws&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/ElasticSearch-00BFB3?style=flat&logo=Elastic&logoColor=black"/>
 </div>
